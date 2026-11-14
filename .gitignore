@@ -4,3 +4,6 @@ __pycache__/
 .coverage
 htmlcov/
 coverage.xml
+output.xml
+log.html
+report.html
